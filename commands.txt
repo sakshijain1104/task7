@@ -1,0 +1,6 @@
+go mod init task7
+go get -u github.com/spf13/cobra
+go run main.go
+go build . 
+ls
+./task7

@@ -1,4 +1,4 @@
-module github.com/sakshijain1104/task7
+module task7
 
 go 1.18
 
